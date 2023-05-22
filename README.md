@@ -2,7 +2,7 @@
 
 
 <div align='center'>
-  ✔✔✔SNS✔✔✔
+  ✔✔✔SNS✔✔✔<br>
   <a href="https://velog.io/@fearofcod"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
 <br>
