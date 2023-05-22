@@ -34,12 +34,12 @@
 <br>
 
 <div align='center'>
-<img src= "https://github-readme-stats.vercel.app/api?username=Junny990316&show_icons=true">
+<img src= "https://github-readme-stats.vercel.app/api?username=fearofgod0001&show_icons=true">
 </div>
   
 <br>
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junny990316&layout=compact""(https://github.com/Junny990316/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fearofgod0001&layout=compact""(https://github.com/fearofgod0001/github-readme-stats">
 </div>
 
 
