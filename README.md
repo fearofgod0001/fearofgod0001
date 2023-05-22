@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?height=200&type=waving&text=TAESUK's%20GitHub&fontColor=ffffff)
 
 
-<div align='center'><br>
+<div align='center'>
   ✔✔✔SNS✔✔✔
   <a href="https://velog.io/@fearofcod"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
-
+</br>
 
 <div align='center'>
   ⚒️Technology Stack⚒️
