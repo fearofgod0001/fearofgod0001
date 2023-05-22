@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&text=TAESUK's%20GitHub&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?height=400&type=waving&text=TAESUK's%20GitHub&fontColor=ffffff)
 
 <div align='center'>
   ⚒️Technology Stack⚒️
 </div>
 </br>
-
+<hr>
 <div align='center'>
    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"height="25"> 
