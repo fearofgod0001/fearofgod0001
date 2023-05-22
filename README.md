@@ -4,10 +4,10 @@
 <div align='center', font-size=4px;>
   <H4>✔SNS✔</H4>
   <a href="https://velog.io/@fearofcod"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <br>
-  📧dlxo8888@gmail.com📧
+  <a href=mailto:dlxo8888@gmail.com>📧</a>
 </div>
-<br>
+</br>
+
 
 <div align='center' ,font-size=9px;>
   ⚒️Technology Stack⚒️
