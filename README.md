@@ -40,7 +40,7 @@
 
   
   
- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&text=thank%20you&C&height=200&section=footer)
+ ![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&&height=150&section=footer)
 <!--
 **fearofgod0001/fearofgod0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
