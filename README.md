@@ -1,16 +1,19 @@
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=000000&text=TAESUK's%20GitHub&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=000000&%20&fontColor=ffffff)
+
+<img src="https://velog.velcdn.com/images/fearofcod/profile/51fa5a5e-f7b6-4fc9-93f6-5ec52d930054/image.png">
 
 
-
-  <div align='center'>
+ <div align='center'>
     <H4>✔SNS✔</H4>
     <a href="https://velog.io/@fearofcod"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a><br>
     <a href=mailto:dlxo8888@gmail.com>📧</a>
    dlxo8888@gmail.com
   </div><br>
 
-### Technologies Used 
 <div align='center' > 
+
+  <p>Technologies Used</p>
+  
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" height="30">   
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="30"> 
   <br>
