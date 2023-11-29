@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=000000&%20&fontColor=ffffff)
-
 <img src="https://velog.velcdn.com/images/fearofcod/profile/51fa5a5e-f7b6-4fc9-93f6-5ec52d930054/image.png">
 
 
@@ -47,7 +45,7 @@
 
   
   
- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&&height=150&section=footer)
+
 <!--
 **fearofgod0001/fearofgod0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
