@@ -1,16 +1,17 @@
 <img src="https://velog.velcdn.com/images/fearofcod/profile/51fa5a5e-f7b6-4fc9-93f6-5ec52d930054/image.png">
 
+ <H2> </H2>
 
  <div align='center'>
-    <H4>✔SNS✔</H4>
+    <H3> SNS </H3>
     <a href="https://velog.io/@fearofcod"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a><br>
     <a href=mailto:dlxo8888@gmail.com>📧</a>
    dlxo8888@gmail.com
   </div><br>
 
 <div align='center' > 
-
-  <p>Technologies Used</p>
+ 
+ <H3>Technologies Used </H3>
   
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" height="30">   
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="30"> 
@@ -30,17 +31,24 @@
    <br>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"> 
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="30"> 
+   <br>
   
 </div>
 <br>
   
 <div align='center' height=50px>
+ <H3>My Github</H3>
 <img src= "https://github-readme-stats.vercel.app/api?username=fearofgod0001&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fearofgod0001&layout=compact""(https://github.com/fearofgod0001/github-readme-stats">
 </div>
 <br>
-
-
+<br>
+ <div align='center'>
+  
+   <H2> </H2>
+   <br>
+get inspired by fearofgod
+</div><br>
 
 
   
