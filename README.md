@@ -6,7 +6,7 @@
  <div align='center'>
     <H3> SNS </H3>
     <a href="https://velog.io/@fearofcod"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a><br>
-    <a href=mailto:dlxo8888@gmail.com>📧</a>
+    <a href=mailto:dlxo8888@gmail.com style="text-decoration: none;">✉️</a>
    dlxo8888@gmail.com
   </div><br>
 
