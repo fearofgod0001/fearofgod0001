@@ -1,5 +1,6 @@
-<img src="https://velog.velcdn.com/images/fearofcod/profile/51fa5a5e-f7b6-4fc9-93f6-5ec52d930054/image.png">
-
+<div align='center'>
+<img src="https://velog.velcdn.com/images/fearofcod/profile/51fa5a5e-f7b6-4fc9-93f6-5ec52d930054/image.png" height="500">
+  </div><br>
  <H2> </H2>
 
  <div align='center'>
