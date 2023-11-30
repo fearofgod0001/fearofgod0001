@@ -58,8 +58,9 @@
   
 <div align='center' height=50px>
  <H3>My Github</H3>
-<img src= "https://github-readme-stats.vercel.app/api?username=fearofgod0001&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fearofgod0001&layout=compact""(https://github.com/fearofgod0001/github-readme-stats">
+<img src= "https://github-readme-stats.vercel.app/api?username=fearofgod0001&show_icons=true" width="400">
+  <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fearofgod0001&layout=compact""(https://github.com/fearofgod0001/github-readme-stats" width="400">
 </div>
 <br>
 <br>
