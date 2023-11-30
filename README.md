@@ -40,7 +40,12 @@
    <br>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"> 
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="30"> 
-   <br>
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="30">     
+  <br>
+  <img src="https://img.shields.io/badge/docker-009639?style=for-the-badge&logo=docker&logoColor=white" height="30"> 
+  
+  <br>
+  <br>
   <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white" height="30">  
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="30">
   
